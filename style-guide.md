@@ -15,7 +15,7 @@ The designs were created to the following widths:
 
 - Slate 300: #d6e2f0
 - Slate 500: #68778d
-- Slate 900: hsl(218, 44%, 22%)
+- Slate 900: #1f3251
 
 ## Typography
 
